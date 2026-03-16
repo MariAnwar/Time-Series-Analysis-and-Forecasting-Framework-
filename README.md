@@ -169,10 +169,10 @@ The dashboard allows exploration of all five models — SARIMA, SARIMAX, GARCH, 
 | Contributor | Contribution |
 |---|---|
 | **Mari Anwar** | Data preparation pipeline, SARIMA model |
-| **[Salma Ahmed]** | SARIMAX model |
-| **[Rafik Sameh]** | GARCH model |
-| **[Etedal Abughanem]** | LSTM model |
-| **[Nour Fouad]** | TACTiS2 model |
+| **Salma Ahmed** | SARIMAX model |
+| **Rafik Sameh** | GARCH model |
+| **Etedal Abughanem** | LSTM model |
+| **Nour Fouad** | TACTiS2 model |
 
 ---
 
